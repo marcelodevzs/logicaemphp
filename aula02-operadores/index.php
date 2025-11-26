@@ -101,6 +101,9 @@
     echo($sol && $sem_chuva || $feriado) ? "Você pode sair para passear." : "Você não pode sair para passear.";
     echo"<br>";
 
+    echo"TESTE DE ATUALIZAÇÃO!";
+    
+
 
     ?>
 </body>
