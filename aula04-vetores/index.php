@@ -7,7 +7,7 @@
 </head>
 <body>
     <?php 
-        echo "<h1>Aula do dia 01/12/2025 no SENAC Largo Treze</h1>";
+        echo "<h1>Vetores - Aula do dia 01/12/2025</h1>";
         //Criação de Vetor/Array indexado
         $array = [10, 20, 30, 40];
 
@@ -52,6 +52,7 @@
         print_r($array);
 
         //Remover vários valores
+        //$valoresParaRemover = []
         //array_diff_key($array[2]);
         //array_values($array);
         //print_r($array);
@@ -129,8 +130,7 @@
         } else {
             echo "O valor 25 Não está no array.";
         }
-
-
+        
     ?>
     
 </body>
